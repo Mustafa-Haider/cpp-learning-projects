@@ -1,0 +1,8 @@
+# bank-management-system-cpp
+Console-based banking system in C++ built while learning core programming concepts:
+- Functions
+- Switch case
+- Loops
+- PIN validation
+- Deposits/withdrawals
+- Transaction history
